@@ -1,0 +1,19 @@
+{
+  "application": "KryptoCore MSG",
+  "version": "0.1.0-alpha.1",
+  "platform": "windows-x64",
+  "source_repository": "https://github.com/kryptocorelabs/apps-source",
+  "source_visibility": "private",
+  "source_commit": "9d3f4c3c32279744e529e18e7ebdb8f67fde5552",
+  "rust": "1.99.1",
+  "dotnet_runtime": "10.0.9",
+  "tor": "16.0",
+  "authenticode_signed": false,
+  "executable": "KryptoCore-MSG.exe",
+  "executable_sha256": "154578e343a54d390ff53998bdf0bfa3c90098a344df8a920f8725c6aeacd01d",
+  "package_check": "passed",
+  "local_rust_tests": {
+    "passed": 26,
+    "ignored_large_file_test": 1
+  }
+}
