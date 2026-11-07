@@ -1,2 +1,2 @@
-39e471a7bff7c27e0f7f57a9185fa1a35d99708f5d12e9d5d2dfc681b8b7ee3a  KryptoCore-MSG-0.1.0-alpha.2-preview.4-windows-x64.zip
+38ded57266b327c7412ec40b00aa941c97f140a957ef7e4e97caa24576597acc  KryptoCore-MSG-0.1.0-alpha.2-preview.4-windows-x64.zip
 26c7838808da3cac7ebb6aac0d4c3b5b2a8a050ff6630e85fcc1a3f6e33562c1  KryptoCore-MSG.exe

@@ -5,7 +5,7 @@
   "platform": "windows-x64",
   "source_repository": "https://github.com/kryptocorelabs/apps-source",
   "source_visibility": "private",
-  "source_commit": "61a5e403be018fb953a6c1dc0744e0c0a19738b3",
+  "source_commit": "96f0cbf9ffeb56900c0ae6804090f3b7cd906177",
   "build_context": "Local Windows development workspace; corresponding application source copied to the recorded private commit. Independent clean binary reproducibility is not established.",
   "rust": "1.99.1",
   "dotnet_runtime": "10.0.9",
@@ -16,7 +16,7 @@
   "executable": "KryptoCore-MSG.exe",
   "executable_sha256": "26c7838808da3cac7ebb6aac0d4c3b5b2a8a050ff6630e85fcc1a3f6e33562c1",
   "archive": "KryptoCore-MSG-0.1.0-alpha.2-preview.4-windows-x64.zip",
-  "archive_sha256": "39e471a7bff7c27e0f7f57a9185fa1a35d99708f5d12e9d5d2dfc681b8b7ee3a",
+  "archive_sha256": "38ded57266b327c7412ec40b00aa941c97f140a957ef7e4e97caa24576597acc",
   "release_url": "https://github.com/kryptocorelabs/msg/releases/tag/v0.1.0-alpha.2-preview.4",
   "validation": {
     "embedded_worker_check": "passed",
