@@ -1,19 +1,28 @@
 {
+  "schema_version": 1,
   "application": "KryptoCore MSG",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0-alpha.2-preview.4",
   "platform": "windows-x64",
   "source_repository": "https://github.com/kryptocorelabs/apps-source",
   "source_visibility": "private",
-  "source_commit": "9d3f4c3c32279744e529e18e7ebdb8f67fde5552",
+  "source_commit": "61a5e403be018fb953a6c1dc0744e0c0a19738b3",
+  "build_context": "Local Windows development workspace; corresponding application source copied to the recorded private commit. Independent clean binary reproducibility is not established.",
   "rust": "1.99.1",
   "dotnet_runtime": "10.0.9",
   "tor": "16.0",
   "authenticode_signed": false,
+  "independent_audit": false,
+  "binary_reproducible": false,
   "executable": "KryptoCore-MSG.exe",
-  "executable_sha256": "154578e343a54d390ff53998bdf0bfa3c90098a344df8a920f8725c6aeacd01d",
-  "package_check": "passed",
-  "local_rust_tests": {
-    "passed": 26,
-    "ignored_large_file_test": 1
+  "executable_sha256": "26c7838808da3cac7ebb6aac0d4c3b5b2a8a050ff6630e85fcc1a3f6e33562c1",
+  "archive": "KryptoCore-MSG-0.1.0-alpha.2-preview.4-windows-x64.zip",
+  "archive_sha256": "39e471a7bff7c27e0f7f57a9185fa1a35d99708f5d12e9d5d2dfc681b8b7ee3a",
+  "release_url": "https://github.com/kryptocorelabs/msg/releases/tag/v0.1.0-alpha.2-preview.4",
+  "validation": {
+    "embedded_worker_check": "passed",
+    "rust_workspace": "passed on local Windows",
+    "gui": "loopback two-window regression; public Tor and manual two-computer checks pending",
+    "public_tor_verified": false,
+    "rust_notice_entries": 64
   }
 }
