@@ -1,5 +1,7 @@
 # KryptoCore MSG
 
+[Standalone Windows builds and requirements](PORTABLE.md)
+
 [Unreleased design preview](DESIGN.md)
 
 [![Preview](https://img.shields.io/badge/status-development_preview-orange)](https://github.com/kryptocorelabs/msg/releases)
