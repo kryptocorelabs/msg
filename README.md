@@ -1,5 +1,7 @@
 # KryptoCore MSG
 
+[Unreleased design preview](DESIGN.md)
+
 [![Preview](https://img.shields.io/badge/status-development_preview-orange)](https://github.com/kryptocorelabs/msg/releases)
 
 Encrypted conversations and files over Tor, built on the open-source
