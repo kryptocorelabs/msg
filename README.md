@@ -16,6 +16,13 @@ Encrypted conversations and files over Tor, built on the open-source
 
 ![MSG conversation preview](assets/chat-preview.png)
 
+## Source and community
+
+[Browse the implementation](https://github.com/kryptocorelabs/apps-source/tree/main/apps/msg) or
+read the [project charter](https://github.com/kryptocorelabs/kryptocore/blob/main/PROJECT_CHARTER.md). First-party code is MIT licensed;
+dependencies retain their own terms. Contributions and independent review are
+welcome. Source visibility does not change the documented preview limits.
+
 ## Start a conversation
 
 1. Extract the Windows x64 ZIP and run **KryptoCore-MSG.exe**.
@@ -48,7 +55,7 @@ checks remain pending for this preview. It is unsigned and has no independent
 security audit. Use synthetic data and retain backups.
 
 This repository hosts public documentation and downloads. Application source
-is maintained privately. KryptoCore stays MIT licensed; third-party components
+is [open under MIT](https://github.com/kryptocorelabs/apps-source/tree/main/apps/msg). Third-party components
 retain their terms. The ZIP includes their original notices. See also
 [Rescue](https://github.com/kryptocorelabs/rescue) for the separate offline
 recovery tool; it cannot currently recover MSG identities or session history.
