@@ -16,6 +16,12 @@ Encrypted conversations and files over Tor, built on the open-source
 
 ![MSG conversation preview](assets/chat-preview.png)
 
+Testing to date has been carried out by the KryptoCoreLabs maintainers, locally
+and through automated CI. No independent security audit has been completed.
+We welcome community testing, code reviews and scrutiny of our security
+assumptions. Please use synthetic data and report suspected vulnerabilities
+privately through the project's security-reporting channel.
+
 ## Source and community
 
 [Browse the implementation](https://github.com/kryptocorelabs/apps-source/tree/main/apps/msg) or
