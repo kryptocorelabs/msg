@@ -18,4 +18,4 @@ two-computer check remain pending for this exact preview. There is no voice,
 offline delivery or persistent history. Files are limited to 16 MiB.
 
 SHA256SUMS.txt and RELEASE_MANIFEST.json identify the archive, executable,
-private source commit and validation scope. Retain backups and use test data.
+source commit and validation scope. Retain backups and use test data.
