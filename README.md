@@ -6,10 +6,15 @@
 
 [Unreleased design preview](DESIGN.md)
 
-[![Preview](https://img.shields.io/badge/status-development_preview-orange)](https://github.com/kryptocorelabs/msg/releases)
+[![Experimental](https://img.shields.io/badge/status-experimental-orange)](https://github.com/kryptocorelabs/msg/releases)
 
 Encrypted conversations and files over Tor, built on the open-source
 [KryptoCore](https://github.com/kryptocorelabs/kryptocore) library.
+
+**Experimental.** This phase focuses on reliable sessions, peer verification,
+attachments and the existing encrypted stores. Protocol and store formats
+are frozen while these paths are tested.
+See the [canonical threat model](https://github.com/kryptocorelabs/apps-source/blob/main/apps/msg/THREAT_MODEL.md).
 
 [Download 0.1.0-alpha.2-preview.4](https://github.com/kryptocorelabs/msg/releases/tag/v0.1.0-alpha.2-preview.4)
 · [Usage](USAGE.md) · [Security](SECURITY.md) · [Release notes](RELEASE_NOTES.md)
